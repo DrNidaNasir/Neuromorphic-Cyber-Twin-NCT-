@@ -7,7 +7,7 @@ This project explores the use of **Spiking Neural Networks (SNNs)** and **Digita
 
 ##  Notebooks
 
-- **NCT.ipynb** – Initial prototype using synthetic spike inputs for anomaly detection with Brian2.  
+- **NCT1.ipynb** – Initial prototype using synthetic spike inputs for anomaly detection with Brian2.  
 - **NCT2.ipynb** – Extended version with the NSL-KDD dataset, includes ML baseline comparisons and performance metrics.  
 - **NCT3.ipynb** – Full evaluation pipeline integrating SNNs with a Digital Twin framework.  
 
